@@ -4,9 +4,9 @@
  *       / _// __/ -_) _ \/ _  /
  *      /_/ /_/  \__/_//_/\_ _/
  *
- * 		MIT License http://www.opensource.org/licenses/mit-license.php
- *	    Author Frend
- *	    Github @FrendEr
+ *      MIT License http://www.opensource.org/licenses/mit-license.php
+ *      Author Frend
+ *      Github @FrendEr
  */
 
 module.exports = function(source) {
