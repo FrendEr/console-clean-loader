@@ -1,4 +1,4 @@
-# console-clean-loader
+# console clean loader for webpack
 
 ## Usage
 
