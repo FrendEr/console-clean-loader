@@ -1,0 +1,31 @@
+{
+  "name": "console-clean-loader",
+  "version": "0.0.1",
+  "description": "console clean loader module for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrendEr/console-clean-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "console"
+  ],
+  "author": "Frend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrendEr/console-clean-loader/issues"
+  },
+  "homepage": "https://github.com/FrendEr/console-clean-loader#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.1"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.14"
+  }
+}
